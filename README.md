@@ -1,0 +1,2 @@
+# fuzzy-logic-membership-functions
+A collection of Python scripts for visualizing and implementing fuzzy logic concepts, including various membership functions (triangular, trapezoidal, shoulder), fuzzy set transformations (concentration, dilation, power operations), and intersection/union operations using T-norm and S-norm functions. This repository is designed as a comprehensive resource for understanding and experimenting with fuzzy membership functions and transformations.
